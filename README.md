@@ -12,10 +12,13 @@ Estimated ROI: 60% faster lead response.
 1. Testing the agent:
     - Input: "New lead: Acme Corp, 500 employees, Bangalore, pain point: slow proposal generation"
     - Expected output: Qualification score, pain points, next step, draft email.
-![image.png](attachment:3ac3b8b7-f364-49be-9348-d42193ab805b:image.png)
+<img width="1892" height="882" alt="1today" src="https://github.com/user-attachments/assets/1821d57a-aec5-4f39-88de-9369e3114aeb" />
+
 
 2. Add knowledge (simulate M365 Graph data) and asking "Suggest outreach for manufacturing lead in Bangalore" → Agent uses knowledge
-![image.png](attachment:15367604-0143-4883-bbfb-09e970416cd8:image.png)
+<img width="1901" height="912" alt="2today" src="https://github.com/user-attachments/assets/2506f24e-20d4-40df-925b-4e1283131b86" />
+
 
 Agent also gives custom outreach email
-![image.png](attachment:5d75ed12-23e3-497e-87f2-bb99cc178428:image.png)
+<img width="1912" height="903" alt="3today" src="https://github.com/user-attachments/assets/ce759174-ebc8-4473-ba0a-e7488ffde3e2" />
+
